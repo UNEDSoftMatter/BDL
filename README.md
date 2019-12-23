@@ -1,5 +1,5 @@
 # BDL
-Brownian Disk Lab (BDL)
+Brownian Disk Lab (BDL): https://doi.org/10.1016/j.cpc.2019.107123
 
 Brownian Disks Lab (BDL) is a Java-based application for the real-time generation and visualization of the motion of
 two-dimensional Brownian disks using Brownian Dynamics (BD) simulations. This software is designed to emulate
